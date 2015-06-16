@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edbb9615-5a1b-4136-bf05-ee5b7efd9637" name="Default" comment="" />
+    <ignored path="HandyApi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HandyApi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="361">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MemberController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.19322033" vertical-offset="285" max-vertical-offset="1577">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <element signature="e#40#76#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateMemberRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateMemberRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="855">
+              <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Member.php" />
+        <option value="$PROJECT_DIR$/app/Booking.php" />
+        <option value="$PROJECT_DIR$/app/Company.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_15_133704_members_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_15_133728_bookings_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2015_06_15_133717_companies_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MembersController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/CreateBookingRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BookingsController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/CreateMemberRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/MemberController.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BookingController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CompanyController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="30" />
+    <option name="width" value="1368" />
+    <option name="height" value="739" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HandyApi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PhpstormProjects/jidet" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434407438000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Iklsc1JZV0lGREpwMEJuNUQ0Y0tMc3c9PSIsInZhbHVlIjoiRWtSUEo1NTYwZzFNUFwvMGQ0b3dwRzh5N2hWUVFSYWx4RG1QXC9SSWhYcENuYXZIQ0xOc2NiSW9ySlhnN3NvbVA5QVBkZnVud3NVcThDODlpUkE3MkNOZz09IiwibWFjIjoiZThiNmI4N2FhZTlmZjZjNWIzMTM1NDgwYjA2ODZiZmU2NDExMjdlZDU3NjI5YWM2YzgxOTYyZWM2MDQ5NjAyYyJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434407438000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRwXC9QRFNoMjE4YXlwRnBNamFrMlp3PT0iLCJ2YWx1ZSI6ImNaMCtQQjdiMm9sdzNCT3RzWmhiOG9RcHlDOGpkclwvYU9HZWpqWWdBZmtkQTRQK3lyMUg0RHQrQUF4S09mMzRHK2RKazA0cWgzamx2dU5KZDRcL3JGM3c9PSIsIm1hYyI6IjlkZDFjMTg4OTZjOTk2YWUyMGJhM2M3MGZlOWUzYjgxZmI4NGNlYWUxNTliZmVjNzE3MzU4Y2YzMjgwZWRhMzMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1tU2ozb1JrSkFDUGtIM0VKXC9cL01QQT09IiwidmFsdWUiOiJnSml5ekhKTU50NnpERzdpSG4rQ3RDaDFtK1Q3b1NjNTgza1N5czRSQlhRME12NzhnWjY5WFwvRTY5dDRzUUVTSjdBdnFzaTV3MTRhRldxZ1VUdGNoUVE9PSIsIm1hYyI6IjAzNGVhOTA5N2E3NWRlM2NjMzcyNDg0NTg0OWQ5MjlmZmNjNjg5MzE0MjU1ZmEyMTNhZGRlMzM2YTBkMWEwZjQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InZqUkRwU0MyUUVlT2tHanpmTWZpRHc9PSIsInZhbHVlIjoiZ293aFwvdll4MGQ3WlpVbUVjU2F6N2FnVEZmeUV1czk0TmxNYzlQa2ZBVnlpeEl4T3NIdm56b1hEaXhwdXdqRzdITGk3aml3SWFheER6eW9YN2hXUTVRPT0iLCJtYWMiOiIxZjYyNGJkNDNlYjYyNTRjYzQzYjYyZWZmOGE4ZjMzZjFjMThjOTcyZDRhYmU4NzE3ZTQ1OTkxMjM4YjI4NjE4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1tU2ozb1JrSkFDUGtIM0VKXC9cL01QQT09IiwidmFsdWUiOiJnSml5ekhKTU50NnpERzdpSG4rQ3RDaDFtK1Q3b1NjNTgza1N5czRSQlhRME12NzhnWjY5WFwvRTY5dDRzUUVTSjdBdnFzaTV3MTRhRldxZ1VUdGNoUVE9PSIsIm1hYyI6IjAzNGVhOTA5N2E3NWRlM2NjMzcyNDg0NTg0OWQ5MjlmZmNjNjg5MzE0MjU1ZmEyMTNhZGRlMzM2YTBkMWEwZjQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InZqUkRwU0MyUUVlT2tHanpmTWZpRHc9PSIsInZhbHVlIjoiZ293aFwvdll4MGQ3WlpVbUVjU2F6N2FnVEZmeUV1czk0TmxNYzlQa2ZBVnlpeEl4T3NIdm56b1hEaXhwdXdqRzdITGk3aml3SWFheER6eW9YN2hXUTVRPT0iLCJtYWMiOiIxZjYyNGJkNDNlYjYyNTRjYzQzYjYyZWZmOGE4ZjMzZjFjMThjOTcyZDRhYmU4NzE3ZTQ1OTkxMjM4YjI4NjE4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1tU2ozb1JrSkFDUGtIM0VKXC9cL01QQT09IiwidmFsdWUiOiJnSml5ekhKTU50NnpERzdpSG4rQ3RDaDFtK1Q3b1NjNTgza1N5czRSQlhRME12NzhnWjY5WFwvRTY5dDRzUUVTSjdBdnFzaTV3MTRhRldxZ1VUdGNoUVE9PSIsIm1hYyI6IjAzNGVhOTA5N2E3NWRlM2NjMzcyNDg0NTg0OWQ5MjlmZmNjNjg5MzE0MjU1ZmEyMTNhZGRlMzM2YTBkMWEwZjQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434407419000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InZqUkRwU0MyUUVlT2tHanpmTWZpRHc9PSIsInZhbHVlIjoiZ293aFwvdll4MGQ3WlpVbUVjU2F6N2FnVEZmeUV1czk0TmxNYzlQa2ZBVnlpeEl4T3NIdm56b1hEaXhwdXdqRzdITGk3aml3SWFheER6eW9YN2hXUTVRPT0iLCJtYWMiOiIxZjYyNGJkNDNlYjYyNTRjYzQzYjYyZWZmOGE4ZjMzZjFjMThjOTcyZDRhYmU4NzE3ZTQ1OTkxMjM4YjI4NjE4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InNiS3dCMUZSOE5iMXhuTHF5aE5ITkE9PSIsInZhbHVlIjoiXC9rRWFxOTdZY21YQnJEbjJLMlJiYUhucnZ5MklQYm9ISVIyclZMYVdqMTJ2MENmTDlQb2xJOUcyTTRSeFwvYjZuZFwvN3lUTWtaSUVGSXRtcVZqSE0rY2c9PSIsIm1hYyI6ImU4MDQzMWJjYzhhNWFjY2ZiNDZmNjMyNTNiYjlkODRmM2UyMzhlZDI3YmNlNDMwMjQzODQ5YWM2NjExZDAwZDkifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9RQXoyXC9mN3k3MTBkQlk3aE5oeHhnPT0iLCJ2YWx1ZSI6InpuUHdjMVRqZkN2em1MdDZQSWJwazFwOEdwQ1JRZ2RPYitFazVnQm02Zm1CRmNjSUpuTDluQmh4Wmp0OGZ4bzZcL1pFK3hJdVJYNkZ0aHNaRm5rdERFUT09IiwibWFjIjoiMzVkNDM2NjlhMDg0YTAzZWNkMGJhN2E4YWYxMzljZDZkNTEzMWQzYjA1ZWZmYWE4MzEzOWEwOGNhZWQ3NTE2NyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InNiS3dCMUZSOE5iMXhuTHF5aE5ITkE9PSIsInZhbHVlIjoiXC9rRWFxOTdZY21YQnJEbjJLMlJiYUhucnZ5MklQYm9ISVIyclZMYVdqMTJ2MENmTDlQb2xJOUcyTTRSeFwvYjZuZFwvN3lUTWtaSUVGSXRtcVZqSE0rY2c9PSIsIm1hYyI6ImU4MDQzMWJjYzhhNWFjY2ZiNDZmNjMyNTNiYjlkODRmM2UyMzhlZDI3YmNlNDMwMjQzODQ5YWM2NjExZDAwZDkifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9RQXoyXC9mN3k3MTBkQlk3aE5oeHhnPT0iLCJ2YWx1ZSI6InpuUHdjMVRqZkN2em1MdDZQSWJwazFwOEdwQ1JRZ2RPYitFazVnQm02Zm1CRmNjSUpuTDluQmh4Wmp0OGZ4bzZcL1pFK3hJdVJYNkZ0aHNaRm5rdERFUT09IiwibWFjIjoiMzVkNDM2NjlhMDg0YTAzZWNkMGJhN2E4YWYxMzljZDZkNTEzMWQzYjA1ZWZmYWE4MzEzOWEwOGNhZWQ3NTE2NyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InNiS3dCMUZSOE5iMXhuTHF5aE5ITkE9PSIsInZhbHVlIjoiXC9rRWFxOTdZY21YQnJEbjJLMlJiYUhucnZ5MklQYm9ISVIyclZMYVdqMTJ2MENmTDlQb2xJOUcyTTRSeFwvYjZuZFwvN3lUTWtaSUVGSXRtcVZqSE0rY2c9PSIsIm1hYyI6ImU4MDQzMWJjYzhhNWFjY2ZiNDZmNjMyNTNiYjlkODRmM2UyMzhlZDI3YmNlNDMwMjQzODQ5YWM2NjExZDAwZDkifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434405828000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9RQXoyXC9mN3k3MTBkQlk3aE5oeHhnPT0iLCJ2YWx1ZSI6InpuUHdjMVRqZkN2em1MdDZQSWJwazFwOEdwQ1JRZ2RPYitFazVnQm02Zm1CRmNjSUpuTDluQmh4Wmp0OGZ4bzZcL1pFK3hJdVJYNkZ0aHNaRm5rdERFUT09IiwibWFjIjoiMzVkNDM2NjlhMDg0YTAzZWNkMGJhN2E4YWYxMzljZDZkNTEzMWQzYjA1ZWZmYWE4MzEzOWEwOGNhZWQ3NTE2NyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJhUkhqKzdHSkFCM1g0TkRsb0hDU1E9PSIsInZhbHVlIjoiRkFlT0RQdmZBclJDam1wVnlodHBVOXNiNVBOY2ZNXC9cL1VuTmNzdU1ubWdoYjVQSFd5cSt3VlFDQTNpdG56QnAwelB2ZkNtaVZEblpVNHJLT2tVWjFXdz09IiwibWFjIjoiYjk3MTk2YWY3MjAwY2U5OTNmNGM1Mjc5YTQzMzM0NmQzMTNhMWU1MjViMWVmMmI1MjQ1NmRjOTk0MzAyZmQwZCJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik5WTmVIbFh0UjIrSVVTU0NJTWxWQ1E9PSIsInZhbHVlIjoiTTlreVE3dExwdlRtd2kzdXoxRGFZdGR0TkU2R1ZjYWhwK243Wll3c1V3aUduWG44d3RnckJFOVFHSHhQQTE4Y0hWSFJoSU14YXRKcnhcL0oyNnJXaFRBPT0iLCJtYWMiOiI0YTA0NmI4Nzg0N2QyZGM4ODdlNmIxMjVmYjhjOGIyMDllMmU2ZjY4YjJkMjcyZjQ2ZGFiZDIyYzEzM2EzOTI2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJhUkhqKzdHSkFCM1g0TkRsb0hDU1E9PSIsInZhbHVlIjoiRkFlT0RQdmZBclJDam1wVnlodHBVOXNiNVBOY2ZNXC9cL1VuTmNzdU1ubWdoYjVQSFd5cSt3VlFDQTNpdG56QnAwelB2ZkNtaVZEblpVNHJLT2tVWjFXdz09IiwibWFjIjoiYjk3MTk2YWY3MjAwY2U5OTNmNGM1Mjc5YTQzMzM0NmQzMTNhMWU1MjViMWVmMmI1MjQ1NmRjOTk0MzAyZmQwZCJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik5WTmVIbFh0UjIrSVVTU0NJTWxWQ1E9PSIsInZhbHVlIjoiTTlreVE3dExwdlRtd2kzdXoxRGFZdGR0TkU2R1ZjYWhwK243Wll3c1V3aUduWG44d3RnckJFOVFHSHhQQTE4Y0hWSFJoSU14YXRKcnhcL0oyNnJXaFRBPT0iLCJtYWMiOiI0YTA0NmI4Nzg0N2QyZGM4ODdlNmIxMjVmYjhjOGIyMDllMmU2ZjY4YjJkMjcyZjQ2ZGFiZDIyYzEzM2EzOTI2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkJhUkhqKzdHSkFCM1g0TkRsb0hDU1E9PSIsInZhbHVlIjoiRkFlT0RQdmZBclJDam1wVnlodHBVOXNiNVBOY2ZNXC9cL1VuTmNzdU1ubWdoYjVQSFd5cSt3VlFDQTNpdG56QnAwelB2ZkNtaVZEblpVNHJLT2tVWjFXdz09IiwibWFjIjoiYjk3MTk2YWY3MjAwY2U5OTNmNGM1Mjc5YTQzMzM0NmQzMTNhMWU1MjViMWVmMmI1MjQ1NmRjOTk0MzAyZmQwZCJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434386998000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik5WTmVIbFh0UjIrSVVTU0NJTWxWQ1E9PSIsInZhbHVlIjoiTTlreVE3dExwdlRtd2kzdXoxRGFZdGR0TkU2R1ZjYWhwK243Wll3c1V3aUduWG44d3RnckJFOVFHSHhQQTE4Y0hWSFJoSU14YXRKcnhcL0oyNnJXaFRBPT0iLCJtYWMiOiI0YTA0NmI4Nzg0N2QyZGM4ODdlNmIxMjVmYjhjOGIyMDllMmU2ZjY4YjJkMjcyZjQ2ZGFiZDIyYzEzM2EzOTI2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InErckQ4NWhlTTlDYzdUVWptZ3NmNXc9PSIsInZhbHVlIjoidjdBZW42MDVnNlFzdW93UXBqRVwvVE5pZDhCQXlTTjczZ2x5Qk9RdkhOMHJtcU1IOFZIRTFVS3ZoQXVIaEpNWFM5VEx2amNLd2J5V0plRURmODU2YmlRPT0iLCJtYWMiOiJlMzEzNjJjZTlkY2ViZTA1NGM5MjEwNzFlM2NhNmFmMjFkNDY5OTE1YWY1Y2Q0MzE1Mzk4Y2QzYTdlYjdmMDM0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZjOWcrWWdBOWhXUnZnMk1pRTN1V0E9PSIsInZhbHVlIjoiTStKM2FvTmFCTjlxTTNmNTk0dXdNbzl6N0l1aTRpUWh1RnRWbENrQlNvZHI5ZVN2UXVXTm5ZcXJiblJNV2I2WlpST1FBdk5PQVNsc01YT2RzWmpOZ2c9PSIsIm1hYyI6IjU4YmNmYzM3YjkyZmFiZDBhMmZkZjg4ZWRkOGYxOTIyMGZlNWU4ZWI5MDAyYjA0NzhmNDg3ZDczZWUyY2VmMjkifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InErckQ4NWhlTTlDYzdUVWptZ3NmNXc9PSIsInZhbHVlIjoidjdBZW42MDVnNlFzdW93UXBqRVwvVE5pZDhCQXlTTjczZ2x5Qk9RdkhOMHJtcU1IOFZIRTFVS3ZoQXVIaEpNWFM5VEx2amNLd2J5V0plRURmODU2YmlRPT0iLCJtYWMiOiJlMzEzNjJjZTlkY2ViZTA1NGM5MjEwNzFlM2NhNmFmMjFkNDY5OTE1YWY1Y2Q0MzE1Mzk4Y2QzYTdlYjdmMDM0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZjOWcrWWdBOWhXUnZnMk1pRTN1V0E9PSIsInZhbHVlIjoiTStKM2FvTmFCTjlxTTNmNTk0dXdNbzl6N0l1aTRpUWh1RnRWbENrQlNvZHI5ZVN2UXVXTm5ZcXJiblJNV2I2WlpST1FBdk5PQVNsc01YT2RzWmpOZ2c9PSIsIm1hYyI6IjU4YmNmYzM3YjkyZmFiZDBhMmZkZjg4ZWRkOGYxOTIyMGZlNWU4ZWI5MDAyYjA0NzhmNDg3ZDczZWUyY2VmMjkifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InErckQ4NWhlTTlDYzdUVWptZ3NmNXc9PSIsInZhbHVlIjoidjdBZW42MDVnNlFzdW93UXBqRVwvVE5pZDhCQXlTTjczZ2x5Qk9RdkhOMHJtcU1IOFZIRTFVS3ZoQXVIaEpNWFM5VEx2amNLd2J5V0plRURmODU2YmlRPT0iLCJtYWMiOiJlMzEzNjJjZTlkY2ViZTA1NGM5MjEwNzFlM2NhNmFmMjFkNDY5OTE1YWY1Y2Q0MzE1Mzk4Y2QzYTdlYjdmMDM0In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434384261000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZjOWcrWWdBOWhXUnZnMk1pRTN1V0E9PSIsInZhbHVlIjoiTStKM2FvTmFCTjlxTTNmNTk0dXdNbzl6N0l1aTRpUWh1RnRWbENrQlNvZHI5ZVN2UXVXTm5ZcXJiblJNV2I2WlpST1FBdk5PQVNsc01YT2RzWmpOZ2c9PSIsIm1hYyI6IjU4YmNmYzM3YjkyZmFiZDBhMmZkZjg4ZWRkOGYxOTIyMGZlNWU4ZWI5MDAyYjA0NzhmNDg3ZDczZWUyY2VmMjkifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434384095000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImlFSHRNOWs0Qkx1aURMS0l5K2tIZkE9PSIsInZhbHVlIjoiSmt6bkRZa2NOSys5c3lGdENcL3h4WEpwb0lxZUluUTNYc1lTeGZ2NlRqU0dkb0YxbXlqekNlY2p2Y2lENUs5VlZoMzd6emhwdkgzcWRyRXlDT1VDWnZ3PT0iLCJtYWMiOiI3NjI4OWIyNGFmZjEzYTNhYTEwMTg3YmQwYjllNGM3YWEwN2I1YWMzZTk1YjE4ZWI1YzM5OTNlY2Y4NzM5ZjI2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434384095000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1GRmg5T1ZHR1h6NCs0b1V5YzdJK0E9PSIsInZhbHVlIjoiWng5UEhzMWpRTVE1dVNmc1Ewa0gxXC9QOE1vOWwzYzY1QzcrbU1uazdNXC9cL1BPZ3hseFJJdm8zU3ZGM2xvMjVURlJWRldabGpOaEZxQW9KT3ZCXC9nS2RnPT0iLCJtYWMiOiI1ZGE3MTNmYTk3YzcyYzdlM2E5NWRlODQ1YWIyYWM0NWIxYjA0N2IyMzhmMmM5YjEzOGUxMTRkNDc1YWI3Mzk2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1434384095000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImlFSHRNOWs0Qkx1aURMS0l5K2tIZkE9PSIsInZhbHVlIjoiSmt6bkRZa2NOSys5c3lGdENcL3h4WEpwb0lxZUluUTNYc1lTeGZ2NlRqU0dkb0YxbXlqekNlY2p2Y2lENUs5VlZoMzd6emhwdkgzcWRyRXlDT1VDWnZ3PT0iLCJtYWMiOiI3NjI4OWIyNGFmZjEzYTNhYTEwMTg3YmQwYjllNGM3YWEwN2I1YWMzZTk1YjE4ZWI1YzM5OTNlY2Y4NzM5ZjI2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1434384095000" />
+                <option name="domain" value="localhost" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik1GRmg5T1ZHR1h6NCs0b1V5YzdJK0E9PSIsInZhbHVlIjoiWng5UEhzMWpRTVE1dVNmc1Ewa0gxXC9QOE1vOWwzYzY1QzcrbU1uazdNXC9cL1BPZ3hseFJJdm8zU3ZGM2xvMjVURlJWRldabGpOaEZxQW9KT3ZCXC9nS2RnPT0iLCJtYWMiOiI1ZGE3MTNmYTk3YzcyYzdlM2E5NWRlODQ1YWIyYWM0NWIxYjA0N2IyMzhmMmM5YjEzOGUxMTRkNDc1YWI3Mzk2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="first_name" />
+                <option name="value" value="Femi" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="last_name" />
+                <option name="value" value="Oladele" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="profemzy@gmail.com" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="phone" />
+                <option name="value" value="08033574778" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="password" />
+                <option name="value" value="pwd.001" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="members" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edbb9615-5a1b-4136-bf05-ee5b7efd9637" name="Default" comment="" />
+      <created>1434313834348</created>
+      <option name="number" value="Default" />
+      <updated>1434313834348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="30" width="1368" height="739" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3906977" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="361">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1577">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateMemberRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="855">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="399">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1805">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+          <folding>
+            <element signature="e#40#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.49270666" vertical-offset="0" max-vertical-offset="617">
+          <caret line="16" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_15_133717_companies_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7096774" vertical-offset="247" max-vertical-offset="836">
+          <caret line="36" column="30" selection-start-line="36" selection-start-column="30" selection-end-line="36" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_15_133704_members_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.83870965" vertical-offset="114" max-vertical-offset="760">
+          <caret line="33" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Company.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19322033" vertical-offset="0" max-vertical-offset="590">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Booking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19322033" vertical-offset="0" max-vertical-offset="590">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Member.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19322033" vertical-offset="0" max-vertical-offset="590">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1121">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.20847458" vertical-offset="123" max-vertical-offset="741">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2015_06_15_133728_bookings_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5322034" vertical-offset="123" max-vertical-offset="741">
+          <caret line="24" column="7" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateBookingRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7423729" vertical-offset="227" max-vertical-offset="817">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/CreateMemberRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="855">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BookingController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3542373" vertical-offset="0" max-vertical-offset="1862">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CompanyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2898305" vertical-offset="0" max-vertical-offset="1672">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="361">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/MemberController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.19322033" vertical-offset="285" max-vertical-offset="1577">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#40#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
